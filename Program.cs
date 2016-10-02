@@ -1,3 +1,4 @@
+/* These are just tests of diferent commands from the reference */
 using System;
 using CSharp.Introduction;  
 using MessageSource = CSharp.Introduction.HelloMessage;  
